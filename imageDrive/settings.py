@@ -130,9 +130,9 @@ DATABASES = {
         # 'NAME': BASE_DIR / 'db.sqlite3',
         "CLIENT": {
             "name": 'ImageDrive',
-            "host": 'mongodb+srv://HarshGupta:HarshGupta007@imagedrive.1hwua.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
-            "username": 'HarshGupta',
-            "password": 'HarshGupta007',
+            "host": 'mongodb+srv://Harsh***pta:HarshG****a007@imagedrive.1hwua.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
+            "username": 'Har****pta',
+            "password": 'Ha****"a007',
             "authMechanism": "SCRAM-SHA-1",
         }
     }
@@ -192,9 +192,9 @@ MEDIA_ROOT = 'static/images'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-AWS_ACCESS_KEY_ID = "AKIAWL2OFULQQV4JPYY5"
-AWS_SECRET_ACCESS_KEY = "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"
-AWS_STORAGE_BUCKET_NAME =  "imagedriveproject"
+AWS_ACCESS_KEY_ID = "AKIA*****WL2OF4JPYY5"
+AWS_SECRET_ACCESS_KEY = "*****iDS+lx0P/udIWanSnwmPLj"
+AWS_STORAGE_BUCKET_NAME =  "imagedr***eproject"
 
 AWS_S3_FILE_OVERWRITE = False
 AWS_DEFAULT_ACL = None
