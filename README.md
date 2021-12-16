@@ -1,2 +1,0 @@
-# CCProject
-Cloud Computing project
